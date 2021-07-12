@@ -1,3 +1,3 @@
-## AirBnB clone - Web static
+# Web static for AirBnB Clone
 
--### This is meant to build the front end of the AirBnB clone.
+- This is meant to build the front-end of the AirBnB clone through design and styling.
